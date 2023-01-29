@@ -64,3 +64,16 @@ Time: (19/1/2023 14:00 - 14:15)
 * Upload all presentations you have made to GitHub
 * Write down meetings discussion on GitHub
 * Make sure you ready for Milestone 3
+## Week 8 Meeting
+Time: (23/1/2023 11:00 - 11:30)
+* Feedback Recived
+* Do Some more work On Homepage
+* Ruby on rails, Djando
+* Build your own Questions page
+* Find a way to store each users input so he can look back at it
+* Admin Page for all data
+* Fix issues MySQL issues
+* Think about what hosting service you will use
+* How will you make the website compatible with phones
+* Do 1 persona profile
+
