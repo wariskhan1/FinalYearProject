@@ -19,3 +19,61 @@ Time : (Thu 17/11/2022 11:30 - 11:55)
 * Update your project kanboard so Alex can see
 * Integrate Zube.io to your github workspace
 ----------------------------------------------------------------
+## Week 3 Meeting
+Time: (8/12/2022 12:15 - 12:30)
+* Feedback Recieved 
+* Start working on login/sign up page
+* Look at GDPR regulations
+* Think about how you will give tips
+* Think about front/back end 
+* How will you collect user data
+----------------------------------------------------------------
+## Week 4 Meeting
+Time: (5/1/2023 11:00 - 11:30)
+* Feedback Recieved
+* Make sure Homepage is uploaded on the new GitHub Repo
+* Think to either use ReactJS or another front end program
+* Record Feedback given 
+* Backend decide if its djanjo or python
+* Think about what other resources you will use
+----------------------------------------------------------------
+## Week 5 Meeting
+Time: (12/1/2023 12:00 - 12:30)
+* Feedback Recieved
+* Think about logic required for questionaire page
+* Use issues page on GitHub
+* Make sure GitHub projects page is updated
+* Develop the Log in/Sign Up Page
+* Use case Diagram
+----------------------------------------------------------------
+## Week 6 Meeting
+Time: (16/1/2023 12:30 - 13:00)
+* Feedback Recieved
+* Integrate all pages together
+* Integrate MySQL to Login/ Sign Up Page
+* Think about top requirements
+* Start writing logic for questionaire
+* Written use case
+* Make sure to keep refrences of resources used e.g Templates
+* Work on backend
+----------------------------------------------------------------
+## Week 7 Meeting
+Time: (19/1/2023 14:00 - 14:15)
+* Feedback Recieved
+* Start thinking of writing essay
+* Upload all presentations you have made to GitHub
+* Write down meetings discussion on GitHub
+* Make sure you ready for Milestone 3
+## Week 8 Meeting
+Time: (23/1/2023 11:00 - 11:30)
+* Feedback Recived
+* Do Some more work On Homepage
+* Ruby on rails, Djando
+* Build your own Questions page
+* Find a way to store each users input so he can look back at it
+* Admin Page for all data
+* Fix issues MySQL issues
+* Think about what hosting service you will use
+* How will you make the website compatible with phones
+* Do 1 persona profile
+
