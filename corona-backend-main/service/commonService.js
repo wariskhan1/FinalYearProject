@@ -1,7 +1,7 @@
 const validateEmail = (email) => {
   let flag = false;
   if (email) {
-    if (email.includes("@") && email.includes(".com")) {
+    if (email.includes("@") && email.includes(".com") && email.includes(".uk")){
       flag = true;
     }
   } else {
