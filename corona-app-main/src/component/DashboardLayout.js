@@ -27,7 +27,7 @@ export const DashboardLayout = (props) => {
   };
   const router = useHistory();
 
-  const [selected, setSelected] = useState("halal-stock-search");
+  const [selected, setSelected] = useState("my-covid-app");
   const [page, setPage] = useState("");
   const [userName, setUserName] = useState("");
   const [sidebar, setSidebar] = useState([]);

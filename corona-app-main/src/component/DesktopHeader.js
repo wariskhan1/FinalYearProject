@@ -14,7 +14,7 @@ const DesktopHeader = () => {
   const [showPassword, setShowPassword] = useState(false);
   const [showNewPassword, setShowNewPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
-  const [selected, setSelected] = useState("halal-stock-search");
+  const [selected, setSelected] = useState("my-covid-app");
   const [page, setPage] = useState("");
   const [sidebar, setSidebar] = useState([]);
   const [isClose, setIsClose] = useState(true);
