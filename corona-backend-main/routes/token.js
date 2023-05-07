@@ -42,7 +42,7 @@ router.post("/forget", async (request, response) => {
           to: body.email,
           subject: "Sending Email using Node.js",
           text: "That was easy!",
-          html: `<p>Forgot password? Click the link to reset <b><a href='https://my-covid-diary-mg74.vercel.app/token?token=${token}'>Click here</a></b></p>`,
+          html: `<p>Forgot password? Click the link to reset <b><a href='https://final-year-project-mg74-wariskhan1.vercel.app/token?token=${token}'>Click here</a></b></p>`,
         };
         // html: `<p>Forgot password? Click the link to reset <b><a href='http://localhost:3000/token?token=${token}'>Click here</a></b></p>`,
 
