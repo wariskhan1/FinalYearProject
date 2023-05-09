@@ -10,17 +10,17 @@ Live Demo: https://my-covid-diary-mg74.vercel.app/
 
 Some features may not work on the live demo link for example Signing Up with Google.
 
-To see full functionality of website Clone Github Repo
-Open Terminal
-Type in > cd corona-app-main
-After this you may need to install the npm
-If needed do this command > npm i
-After the libaries are installed make sure you are on corona-app-main directory
-Do this command > npm start
-After this localhost :3000 will open on your web browser and you should be able to use website
-After this open another terminal and go to corona-backend-main directory by using this command
-cd corona-backend-main
-And run this command once your in the backend main directory
-npm start
+* To see full functionality of website Clone Github Repo
+* Open Terminal
+* Type in > cd corona-app-main
+* After this you may need to install the npm
+* If needed do this command > npm i
+* After the libaries are installed make sure you are on corona-app-main directory
+* Do this command > npm start
+* After this localhost :3000 will open on your web browser and you should be able to use website
+* After this open another terminal and go to corona-backend-main directory by using this command
+* cd corona-backend-main
+* And run this command once your in the backend main directory
+* npm start
 
-Once this is done you should be able to use all functions in website. 
+* Once this is done you should be able to use all functions in website. 
