@@ -247,7 +247,7 @@ const Signup = () => {
                 Secure password tips!
               </p>
               <p className="font-25 weight-900 m-0">
-                1. Dont personal information.
+                1. Dont provide personal information.
               </p>
               <p className=" font-25 weight-900 m-0">
                 2. include a combination of letters, numbers, and characters.
@@ -255,7 +255,7 @@ const Signup = () => {
               <p className=" font-25 weight-900 m-0">
                 3. Prioritize password length.{" "}
               </p>
-              <p className="font-25 weight-900 m-0">4. Never repeat password</p>
+              <p className="font-25 weight-900 m-0">4. Never repeat a password</p>
             </div>
           </div>
           <div className="col-12 col-lg-7">
