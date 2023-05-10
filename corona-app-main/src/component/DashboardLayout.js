@@ -251,7 +251,7 @@ export const DashboardLayout = (props) => {
 
   const onClickSearch = () => {
     if (search) {
-      router.push("/dashboard/halal-stock-search?symbol=" + search);
+      router.push("/dashboard/my-covid-app?symbol=" + search);
     }
   };
 
@@ -308,7 +308,7 @@ export const DashboardLayout = (props) => {
               <div className="d-flex justify-content-between">
                 <span>
                   <Link
-                    to="/dashboard/halal-stock-search"
+                    to="/dashboard/my-covid-app"
                     className="text-black"
                   >
                     {/* <img
