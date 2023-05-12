@@ -10,6 +10,8 @@ All the below links can be used for the Live Demo:
 * https://my-covid-diary-mg74.vercel.app/
 * https://final-year-project-mg74-m4sy6b2sw-wariskhan1.vercel.app/
 * https://final-year-project-mg74-58rfqs8il-wariskhan1.vercel.app/
+* 
+*NOTE* PROJECT MAY NEED TO BE ACCESSED LOCALLY FOLLOWING PROCEDURES BELOW*
 
 All the features work on the live demo apart from Google Signup
 
