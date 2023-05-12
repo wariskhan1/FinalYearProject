@@ -7,9 +7,9 @@ The main aim of this project is to create a develop a website so users can recor
 
 
 All the below links can be used for the Live Demo: 
-https://my-covid-diary-mg74.vercel.app/
-https://final-year-project-mg74-m4sy6b2sw-wariskhan1.vercel.app/
-https://final-year-project-mg74-58rfqs8il-wariskhan1.vercel.app/
+* https://my-covid-diary-mg74.vercel.app/
+* https://final-year-project-mg74-m4sy6b2sw-wariskhan1.vercel.app/
+* https://final-year-project-mg74-58rfqs8il-wariskhan1.vercel.app/
 
 All the features work on the live demo apart from Google Signup
 
