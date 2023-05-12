@@ -9,7 +9,7 @@ The main aim of this project is to create a develop a website so users can recor
 Live Demo: https://my-covid-diary-mg74.vercel.app/
 
 Some features may not work on the live demo link for example Signing Up with Google.
-
+* Istall node, npm and git. 
 * To see full functionality of website Clone Github Repo
 * Open Terminal
 * Type in > cd corona-app-main
@@ -22,5 +22,6 @@ Some features may not work on the live demo link for example Signing Up with Goo
 * cd corona-backend-main
 * And run this command once your in the backend main directory
 * npm start
+* NOTE : Packages may be updated or no longer maintained. If an error is showing to updates the packages or deprecated warnings. You can install the new packages or simple do this command npm install --loglevel=error (to ignore warnings) when in the covid-app-main folder. 
 
 * Once this is done you should be able to use all functions in website. 
