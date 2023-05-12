@@ -22,6 +22,6 @@ Some features may not work on the live demo link for example Signing Up with Goo
 * cd corona-backend-main
 * And run this command once your in the backend main directory
 * npm start
-* NOTE : Packages may be updated or no longer maintained. If an error is showing to updates the packages or deprecated warnings. You can install the new packages or simple do this command npm install --loglevel=error (to ignore warnings) when in the covid-app-main folder. 
+* NOTE : Packages may be updated or no longer maintained. If an error is showing to update the packages or deprecated warnings. You can install the new packages or simply do this command npm install --loglevel=error (to ignore warnings) when in the covid-app-main folder. 
 
 * Once this is done you should be able to use all functions in website. 
